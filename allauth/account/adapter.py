@@ -1,7 +1,7 @@
 import html
 import json
-import warnings
 from urllib.parse import quote, urlparse
+import warnings
 
 from django import forms
 from django.conf import settings
